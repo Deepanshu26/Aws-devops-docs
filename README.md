@@ -1,2 +1,1 @@
-# Aws-devops-docs
-Aws
+# aws-devops-docs
